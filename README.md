@@ -5,4 +5,4 @@ Molestock 3D printer parts
 
 For more informations visit <a href="http://www.e-mole.cz/molestock">www.e-mole.cz/molestock</a>.
 
-<img src="http://www.e-mole.cz/sites/default/files/pictures/e-mole-molestock-3d_printer.jpg" alt="">
+<img src="http://www.e-mole.cz/sites/default/files/pictures/e-mole-molestock-3d_printer.jpg" alt="Molestock">
